@@ -47,9 +47,9 @@ Diễn giải:
 - **weatherForecast.py** file chính 
 ## 6. Ảnh Demo
 
-![page1](demoApp/page1.png)
+![page1](https://github.com/PhanDuy23/Weather_Forecast/blob/main/demoImg/page1.png)
 
-![page2](demoApp/page2.png)
+![page2](https://github.com/PhanDuy23/Weather_Forecast/blob/main/demoImg/page2.png)
 
 - Cần cài các thư viện để chạy: 
   - pip install pytz 
